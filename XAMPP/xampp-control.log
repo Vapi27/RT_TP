@@ -1,0 +1,80 @@
+15:37:45  [main] 	Initializing Control Panel
+15:37:45  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:37:45  [main] 	XAMPP Version: 7.2.2
+15:37:45  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:37:45  [main] 	Running with Administrator rights - good!
+15:37:45  [main] 	XAMPP Installation Directory: "c:\users\adminetu\desktop\rt_tp\xampp\"
+15:37:45  [main] 	Checking for prerequisites
+15:37:45  [main] 	All prerequisites found
+15:37:45  [main] 	Initializing Modules
+15:37:45  [main] 	The FileZilla module is disabled
+15:37:45  [main] 	The Mercury module is disabled
+15:37:45  [main] 	Starting Check-Timer
+15:37:45  [main] 	Control Panel Ready
+15:37:47  [Apache] 	Attempting to start Apache app...
+15:37:53  [main] 	Deinitializing Modules
+15:37:53  [main] 	Deinitializing Control Panel
+
+15:36:45  [main] 	Initializing Control Panel
+15:36:45  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:36:45  [main] 	XAMPP Version: 7.2.2
+15:36:45  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:36:45  [main] 	Running with Administrator rights - good!
+15:36:45  [main] 	XAMPP Installation Directory: "c:\users\adminetu\desktop\rt_tp\xampp\"
+15:36:45  [main] 	Checking for prerequisites
+15:36:48  [main] 	All prerequisites found
+15:36:48  [main] 	Initializing Modules
+15:36:48  [main] 	The FileZilla module is disabled
+15:36:48  [main] 	The Mercury module is disabled
+15:36:48  [Tomcat] 	Problem detected!
+15:36:48  [Tomcat] 	Port 8080 in use by ""C:\Program Files (x86)\National Instruments\Shared\NI WebServer\ApplicationWebServer.exe" -user"!
+15:36:48  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+15:36:48  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+15:36:48  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+15:36:48  [main] 	Starting Check-Timer
+15:36:48  [main] 	Control Panel Ready
+15:37:55  [main] 	Deinitializing Modules
+15:37:55  [main] 	Deinitializing Control Panel
+
+15:36:44  [main] 	Initializing Control Panel
+15:36:44  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:36:44  [main] 	XAMPP Version: 7.2.2
+15:36:44  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:36:44  [main] 	Running with Administrator rights - good!
+15:36:44  [main] 	XAMPP Installation Directory: "c:\users\adminetu\desktop\rt_tp\xampp\"
+15:36:44  [main] 	Checking for prerequisites
+15:36:48  [main] 	All prerequisites found
+15:36:48  [main] 	Initializing Modules
+15:36:48  [main] 	The FileZilla module is disabled
+15:36:48  [main] 	The Mercury module is disabled
+15:36:48  [Tomcat] 	Problem detected!
+15:36:48  [Tomcat] 	Port 8080 in use by ""C:\Program Files (x86)\National Instruments\Shared\NI WebServer\ApplicationWebServer.exe" -user"!
+15:36:48  [Tomcat] 	Tomcat WILL NOT start without the configured ports free!
+15:36:48  [Tomcat] 	You need to uninstall/disable/reconfigure the blocking application
+15:36:48  [Tomcat] 	or reconfigure Tomcat and the Control Panel to listen on a different port
+15:36:48  [main] 	Starting Check-Timer
+15:36:48  [main] 	Control Panel Ready
+15:36:50  [Apache] 	Attempting to start Apache app...
+15:36:57  [Apache] 	Attempting to start Apache app...
+15:37:37  [Apache] 	Attempting to start Apache app...
+15:37:56  [main] 	Deinitializing Modules
+15:37:56  [main] 	Deinitializing Control Panel
+
+15:37:58  [main] 	Initializing Control Panel
+15:37:58  [main] 	Windows Version: Windows 7 Professional SP1 64-bit
+15:37:58  [main] 	XAMPP Version: 7.2.2
+15:37:58  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+15:37:58  [main] 	Running with Administrator rights - good!
+15:37:58  [main] 	XAMPP Installation Directory: "c:\users\adminetu\desktop\rt_tp\xampp\"
+15:37:58  [main] 	Checking for prerequisites
+15:37:59  [main] 	All prerequisites found
+15:37:59  [main] 	Initializing Modules
+15:37:59  [main] 	The FileZilla module is disabled
+15:37:59  [main] 	The Mercury module is disabled
+15:37:59  [main] 	Starting Check-Timer
+15:37:59  [main] 	Control Panel Ready
+15:38:00  [Apache] 	Attempting to start Apache app...
+15:38:15  [Apache] 	Attempting to start Apache app...
+15:38:20  [main] 	Deinitializing Modules
+15:38:20  [main] 	Deinitializing Control Panel
+
