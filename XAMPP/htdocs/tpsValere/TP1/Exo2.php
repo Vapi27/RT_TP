@@ -19,7 +19,8 @@
 </form>
    <?php
     echo "<div>Message de taille {{$_GET["size"]}}px en {$_GET["couleur"]}</div>";
-    echo "<p style='color: {$_GET["couleur"]};size: {$_GET["size"]}px;'>{$_GET["message"]}</p>";
+    echo "<p style='color: {$_GET["couleur"]};'><span style='font-size: {$_GET["size"]}px;'>{$_GET["message"]}</span></p>";
+
     if (empty($_GET["couleur"])){
       echo "<p style='color:red'>Vous n'avez pas remplis tout les champs</p>"; 
     }
